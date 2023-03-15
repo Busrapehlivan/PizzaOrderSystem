@@ -1,3 +1,3 @@
 # PizzaOrderSystem
-GlobalAIHub & Akbank 
-pizza siparis sistemi python ile yazıldı
+GlobalAIHub & Akbank işbirliğiyle düzenlenen python bootcamp proje görevi
+
